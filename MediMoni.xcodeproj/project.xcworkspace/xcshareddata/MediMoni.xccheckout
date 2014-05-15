@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>14703FB1-F8DA-4BFB-88C2-0683DD4D2931</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MediMoni</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D35BEC96-0BD3-417B-A6FA-D0A3C53D56BF</key>
+		<string>https://github.com/deemsys/MedicationMonitor_iPAD.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MediMoni.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D35BEC96-0BD3-417B-A6FA-D0A3C53D56BF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/deemsys/MedicationMonitor_iPAD.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D35BEC96-0BD3-417B-A6FA-D0A3C53D56BF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D35BEC96-0BD3-417B-A6FA-D0A3C53D56BF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MedicationMonitor_iPAD</string>
+		</dict>
+	</array>
+</dict>
+</plist>
